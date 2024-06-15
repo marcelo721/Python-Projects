@@ -1,6 +1,6 @@
 # Flappy Bird Clone
 
-![Flappy Bird Clone](images/gameplay.png)
+![Flappy Bird Clone](https://www.alphr.com/wp-content/uploads/2021/01/flappy_bird-review_0.jpg)
 
 ## Overview
 
@@ -43,13 +43,13 @@ To run this game on your local machine, follow these steps:
 ## Screenshots
 
 ### Main Menu
-![Main Menu](images/main_menu.png)
+![Main Menu](https://miro.medium.com/max/1400/1*8x-_V0Zb_w0ME4gXlJXNsQ.png)
 
 ### Gameplay
-![Gameplay](images/gameplay.png)
+![Gameplay](https://www.alphr.com/wp-content/uploads/2021/01/flappy_bird-review_0.jpg)
 
 ### Game Over
-![Game Over](images/game_over.png)
+![Game Over](https://upload.wikimedia.org/wikipedia/en/0/01/Flappy_Bird_game_over.png)
 
 ## Contributing
 
