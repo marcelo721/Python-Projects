@@ -36,7 +36,7 @@ To run this game on your local machine, follow these steps:
 
 ## Usage
 
-- Press the `spacebar` to make the bird flap its wings.
+- You just need to press the enter key to make the bird fly.
 - Navigate through the pipes and avoid hitting them.
 - Try to achieve the highest score possible.
 
