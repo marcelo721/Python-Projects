@@ -19,7 +19,7 @@ To run this game on your local machine, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/flappy-bird-clone.git
+    git clonehttps://github.com/marcelo721/flappy-bird-python.git
     ```
 2. Navigate to the project directory:
     ```bash
