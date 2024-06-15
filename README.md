@@ -1,6 +1,6 @@
 # Flappy Bird Clone
 
-![Flappy Bird Clone](path/to/your/image1.png)
+![Flappy Bird Clone](images/gameplay.png)
 
 ## Overview
 
@@ -43,13 +43,13 @@ To run this game on your local machine, follow these steps:
 ## Screenshots
 
 ### Main Menu
-![Main Menu](path/to/your/image2.png)
+![Main Menu](images/main_menu.png)
 
 ### Gameplay
-![Gameplay](path/to/your/image3.png)
+![Gameplay](images/gameplay.png)
 
 ### Game Over
-![Game Over](path/to/your/image4.png)
+![Game Over](images/game_over.png)
 
 ## Contributing
 
@@ -67,4 +67,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Happy flapping!
-
