@@ -1,6 +1,6 @@
 # Flappy Bird Clone
 
-![Flappy Bird Clone](https://www.alphr.com/wp-content/uploads/2021/01/flappy_bird-review_0.jpg)
+![Flappy Bird Clone](https://i.pinimg.com/originals/29/ae/ac/29aeaca22eb45af703e1abde43e0e99e.jpg)
 
 ## Overview
 
@@ -43,21 +43,14 @@ To run this game on your local machine, follow these steps:
 ## Screenshots
 
 ### Main Menu
-![Main Menu](https://miro.medium.com/max/1400/1*8x-_V0Zb_w0ME4gXlJXNsQ.png)
+![Main Menu](http://gameaccessibilityguidelines.com/wp-content/uploads/2014/05/flappy-birds-button-size-e1401137200614-940x1024.png)
 
 ### Gameplay
-![Gameplay](https://www.alphr.com/wp-content/uploads/2021/01/flappy_bird-review_0.jpg)
+![Gameplay](https://wallpapers.com/images/hd/flappy-bird-background-upji71lllhys89y3.jpg)
 
 ### Game Over
-![Game Over](https://upload.wikimedia.org/wikipedia/en/0/01/Flappy_Bird_game_over.png)
+![Game Over](https://i.pinimg.com/originals/4a/0b/9e/4a0b9e0fccf502091dea498ba7a3f1bd.jpg)
 
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request. Contributions are always welcome!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
